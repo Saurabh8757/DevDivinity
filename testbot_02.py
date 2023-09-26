@@ -21,8 +21,8 @@ while True:
 
   #Temporary solution to the Conversation Intitiation by the Chatbot instead of the User
   if i==1: 
-    prompt="Hi" 
-    i=0
+    prompt="Hi"
+    i=0 
   else:
     prompt = str(input("User-",))
   
